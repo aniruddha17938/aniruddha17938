@@ -49,7 +49,6 @@ I'm always excited to collaborate on interesting projects, especially those invo
 
 -  Email: aniruddha0234@gmail.com
 -  Linkdin: www.linkedin.com/in/aniruddha-choudhury-843348253
--  LeetCode: leetcode.com/u/aniruddha0203201
 
 ---
 *"Passionate about turning data into insights and ideas into applications"* ✨
